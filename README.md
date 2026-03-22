@@ -6,4 +6,3 @@ Implementation of the Atoll board game designed by Mark Steere. Project for the 
 - Two game modes: Player vs Player and Player vs AI
 - AI opponent implements Alpha-Beta pruning algorithm for optimal move selection
 
-![1](images/Screenshot 2026-03-22 141836.png)
